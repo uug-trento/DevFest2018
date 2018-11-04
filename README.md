@@ -46,4 +46,4 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 
 
 
-##2 - Project material (*coming soon*)
+## 2 - Project material (*coming soon*)
