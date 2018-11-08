@@ -5,7 +5,7 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 ## What do you need
 
 1. [Unity3D](https://unity3d.com)
-2. [DevFest2018_project](https://drive.google.com/open?id=10YVA5Yu3tEaBtQISO0nykjPjcllCZ5QO) archive
+2. [DevFest2018_project](http://bit.ly/uug-devfest-18-project) archive
 
 ## 1 - Unity3D
 
