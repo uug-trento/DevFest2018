@@ -56,3 +56,15 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 
 - Click on *Download anyway*
 - Unzip the archive into a designated folder
+
+## 3 AR Workshop 
+A compatible device:
+- An Andorid device with [ARCore](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en_US) installed
+- An iPhone 6S or newer, iPad 2017 or newer
+
+### Android
+1. Install [Android Studio](https://developer.android.com/studio) with **Android SDK 7.0 (API Level 24) or later**
+
+### iOS
+1. Install XCode 9 beta or later, with iOS SDK that includes ARKit Framework
+
