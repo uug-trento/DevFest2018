@@ -19,7 +19,7 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 
 ![](img/setup.png)
 
-- The only mandatory component is the Unity editor
+- Deselect every component except the Unity editor
 
 ![](img/wizard.png)
 
@@ -38,8 +38,21 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 
 ![](img/open.png)
 
-- Locate the project folder and click on *Select folder*
+- Locate the project folder (see next section) and click on *Select folder*
 
 ![](img/selection.png)
 
-## 2 - Project material (*coming soon*)
+## 2 - Project material 
+
+### 2.1 - How to prepare the project
+
+- Go to the [project](http://bit.ly/uug-devfest-18-project) link
+
+![](img/drive_1.png)
+
+- Click on the *Download* button
+
+![](img/drive_2.png)
+
+- Click on *Download anyway*
+- Unzip the archive into a designated folder
