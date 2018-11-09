@@ -59,7 +59,7 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 
 ## 3 AR Workshop 
 A compatible device:
-- An Andorid device with [ARCore](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en_US) installed
+- An Android device with [ARCore](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en_US) installed
 - An iPhone 6S or newer, iPad 2017 or newer
 
 ### Android
