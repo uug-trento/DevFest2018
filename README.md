@@ -68,3 +68,11 @@ A compatible device:
 ### iOS
 1. Install XCode 9 beta or later, with iOS SDK that includes ARKit Framework
 
+### Building
+create a file `link.xml` inside the Assets folder
+```xml
+<linker>
+    <assembly fullname="Unity.XR.ARCore" ignoreIfMissing="1" preserve="all"/>
+    <assembly fullname="Unity.XR.ARKit" ignoreIfMissing="1" preserve="all"/>
+</linker>
+``` 
