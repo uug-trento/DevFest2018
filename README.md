@@ -6,6 +6,7 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 
 1. [Unity3D](https://unity3d.com)
 2. [DevFest2018_project](http://bit.ly/uug-devfest-18-project) archive
+3. [Android Studio](https://developer.android.com/studio)
 
 ## 1 - Unity3D
 
@@ -57,9 +58,9 @@ Repository for the [DevFest 2018](https://devfest18.gdgtrento.it) workshop mater
 - Click on *Download anyway*
 - Unzip the archive into a designated folder
 
-## 3 AR Workshop 
+## 3 - AR Workshop 
 A compatible device:
-- An Android device with [ARCore](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en_US) installed
+- An Android device with [ARCore](https://play.google.com/store/apps/details?id=com.google.ar.core) installed
 - An iPhone 6S or newer, iPad 2017 or newer
 
 ### Android
@@ -75,4 +76,4 @@ create a file `link.xml` inside the Assets folder
     <assembly fullname="Unity.XR.ARCore" ignoreIfMissing="1" preserve="all"/>
     <assembly fullname="Unity.XR.ARKit" ignoreIfMissing="1" preserve="all"/>
 </linker>
-``` 
+```
